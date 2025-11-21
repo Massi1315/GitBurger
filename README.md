@@ -1,8 +1,8 @@
 Bienvenue chez GitBurger !
 
-99. Pain haut
-98. Salade
-97. Steak
-96. Fromage
-95. Bacon
-94. Pain bas
+1. Pain haut
+2. Salade
+3. Steak
+4. Fromage
+5. Bacon
+6. Pain bas
