@@ -1,13 +1,8 @@
-# Bienvenue chez GitBurger !
+Bienvenue chez GitBurger !
 
-Construisez votre propre hamburger 🍔
-
-## Ingrédients
-- 🥯 Pain haut
-- 🥬 Salade
-- 🍅 Tomate
-- 🥩 Steak
-- 🧀 Fromage
-- 🥓 Bacon
-- 🍞 Pain bas
-
+99. Pain haut
+98. Salade
+97. Steak
+96. Fromage
+95. Bacon
+94. Pain bas
